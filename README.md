@@ -2,6 +2,8 @@
 
 🎓 **HNDIT Student at SLIATE**  
 🎓 **BSc (Hons) Computer Science Student at Wrexham University**  
+💼 **Intern – Southern Province Irrigation Department**  
+
 💻 Passionate Developer | 🎨 Graphic Designer | 🎬 Video Editor | 📱 Digital Enthusiast
 
 I’m a passionate developer interested in building scalable applications, backend systems, mobile applications, and modern digital solutions. I enjoy learning new technologies and turning ideas into practical projects.
@@ -12,12 +14,14 @@ I’m a passionate developer interested in building scalable applications, backe
 
 - 🎓 Studying **HNDIT at SLIATE**
 - 🎓 Studying **BSc (Hons) Computer Science at Wrexham University**
+- 💼 Currently working as an **Intern at the Southern Province Irrigation Department**
 - 💻 Interested in Software Development and System Architecture
 - 📱 Experienced with Mobile Application Development
 - 🌐 Interested in Web & Backend Development
 - ☁️ Exploring Cloud Technologies and DevOps
 - 🎨 Interested in Graphic Design
 - 🎬 Interested in Video Editing
+- 📐 Interested in 3D Design & Visualization
 - 📢 Interested in Digital Marketing
 - 🚀 Always learning and improving my technical skills
 
@@ -41,7 +45,6 @@ I’m a passionate developer interested in building scalable applications, backe
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 📱 Mobile Development
 
@@ -52,7 +55,6 @@ I’m a passionate developer interested in building scalable applications, backe
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -63,7 +65,6 @@ I’m a passionate developer interested in building scalable applications, backe
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🎨 Design & Creative Tools
 
@@ -72,11 +73,16 @@ I’m a passionate developer interested in building scalable applications, backe
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
+### 🏗️ 3D Design & Visualization
+
+![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+![Lumion](https://img.shields.io/badge/Lumion-00A8E8?style=for-the-badge&logoColor=white)
+
 ### 🎬 Video Editing
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 ### 📢 Digital Marketing
 
@@ -107,6 +113,7 @@ I’m a passionate developer interested in building scalable applications, backe
 - ☁️ Cloud & DevOps
 - 🏗️ Software Architecture
 - 🤖 Machine Learning
+- 📐 3D Design & Visualization
 - 🎨 Graphic Design
 - 🎬 Video Editing
 - 📢 Digital Marketing
@@ -116,14 +123,27 @@ I’m a passionate developer interested in building scalable applications, backe
 ## 🚀 Projects
 
 ### 📱 ScaleCare LK
+
 A mobile platform designed to connect weighing-scale shop owners with technicians and simplify the scale repair process.
 
 **Technologies:** Flutter • Dart • Firebase • Cloudinary
 
 ### 🚗 SouthernGo
+
 A transport management application with live maps, driver/passenger functionality, vehicle booking and communication features.
 
 **Technologies:** Flutter • Node.js • PostgreSQL • OpenStreetMap
+
+---
+
+## 💼 Experience
+
+### 🏢 Intern – Southern Province Irrigation Department
+
+Currently gaining professional experience while applying my knowledge of software development, technology, and computer science in a real-world organizational environment.
+
+**Role:** Intern  
+**Organization:** Southern Province Irrigation Department
 
 ---
 
@@ -141,15 +161,6 @@ I'm interested in collaborating on:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pravindu228&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravindu228&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -160,17 +171,31 @@ I'm interested in collaborating on:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pravindu)
+<p align="left">
 
-📧 **Email:** pravindu@example.com
+<a href="https://linkedin.com/in/pravindu">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://www.facebook.com/pravindu.chandupa">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@pra_v_i">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+</p>
+
+📧 **Email:** pravindu@gmail.com  
+📱 **Mobile:** 0768494835  
 🌐 **Portfolio:** pravindu.dev
 
 ---
 
 ## ⚡ Fun Fact
 
-> I enjoy building software, designing creative content, editing videos, and learning new technologies — sometimes all in the same project! 🚀
+> I enjoy building software, designing creative content, editing videos, creating 3D designs, and learning new technologies — sometimes all in the same project! 🚀
 
 ---
 
